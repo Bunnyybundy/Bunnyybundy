@@ -1,6 +1,7 @@
-## Hi there 👋
-
-<!--
+<!--Encabezado con gif -->
+<div aling="center">
+<img src="https://pin.it/636145UV9" width= "200"/>
+  <!--
 **Bunnyybundy/Bunnyybundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
