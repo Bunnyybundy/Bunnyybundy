@@ -1,6 +1,6 @@
 <!--Encabezado con gif -->
 <div aling="center">
-<img src="https://pin.it/636145UV9" width= "200"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtxOHgyNDBtcHR2enBvazJlNDdiNmk5N3ZheXNqMGN3Zzgwa3ZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width= "200"/>
   <!--
 **Bunnyybundy/Bunnyybundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
