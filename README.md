@@ -47,10 +47,13 @@ Soy estudiante de **Informática** con gusto por el desarrollo de software, la l
 
 ---
 
-<!-- GIF del Gatito decorativo centrado -->
+---
+
+<!-- SECCIÓN DE GIFS DECORATIVOS -->
 <div align="center">
   <br />
-  <img width="260px" alt="gato" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtxOHgyNDBtcHR2enBvazJlNDdiNmk5N3ZheXNqMGN3Zzgwa3ZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" />
+  <!-- Aquí puedes reemplazar la URL del GIF por el enlace directo (terminado en .gif) del pin que te gusta -->
+  <img width="260px" alt="gif aesthetic" src="https://es.pinterest.com/pin/1011198922583609375/" />
 </div>
 
 ---
